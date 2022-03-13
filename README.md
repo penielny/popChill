@@ -1,6 +1,5 @@
 # popChill
 <img src="https://raw.githubusercontent.com/penielny/popChill/main/assets/favicon.png" width="100">
-![Logo](https://raw.githubusercontent.com/penielny/popChill/main/assets/favicon.png)
 
 
 # popChills
@@ -20,12 +19,13 @@ the application was developed using react native , expo and the free store-api h
 
 
 ## Screenshots
+<img src="https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1020.PNG" width="30%" >
+<img src="https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1021.PNG" width="30%" >
+<img src="https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1023.PNG" width="30%" >
+<img src="https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1024.PNG" width="30%" >
+<img src="https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1025.PNG" width="30%" >
 
-![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1020.PNG | width=100)
-![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1021.PNG | width=100)
-![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1023.PNG | width=100)
-![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1024.PNG | width=100)
-![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1025.PNG | width=100)
+
 
 
 ## Acknowledgements
