@@ -21,11 +21,11 @@ the application was developed using react native , expo and the free store-api h
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1020.PNG)
-![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1021.PNG)
-![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1023.PNG)
-![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1024.PNG)
-![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1025.PNG)
+![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1020.PNG | width=100)
+![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1021.PNG | width=100)
+![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1023.PNG | width=100)
+![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1024.PNG | width=100)
+![App Screenshot](https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1025.PNG | width=100)
 
 
 ## Acknowledgements
