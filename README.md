@@ -1,6 +1,6 @@
 # popChill
 
-![Logo](https://raw.githubusercontent.com/penielny/popChill/main/assets/favicon.png)
+![Logo](https://raw.githubusercontent.com/penielny/popChill/main/assets/favicon.png|width=50)
 
 
 # popChills
