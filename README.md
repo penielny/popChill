@@ -1,5 +1,5 @@
 # popChill
-img src="https://raw.githubusercontent.com/penielny/popChill/main/assets/favicon.png" width="100">
+<img src="https://raw.githubusercontent.com/penielny/popChill/main/assets/favicon.png" width="100">
 ![Logo](https://raw.githubusercontent.com/penielny/popChill/main/assets/favicon.png)
 
 
