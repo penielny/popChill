@@ -19,12 +19,13 @@ the application was developed using react native , expo and the free store-api h
 
 
 ## Screenshots
+<p float="left">
 <img src="https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1020.PNG" width="30%" >
 <img src="https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1021.PNG" width="30%" >
 <img src="https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1023.PNG" width="30%" >
 <img src="https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1024.PNG" width="30%" >
 <img src="https://raw.githubusercontent.com/penielny/popChill/main/screenshoot/IMG_1025.PNG" width="30%" >
-
+</p>
 
 
 
