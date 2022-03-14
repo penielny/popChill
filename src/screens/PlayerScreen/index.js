@@ -12,7 +12,7 @@ export default function PlayerScreen() {
     const { appState } = useAppState()
     const [alerts, setAlerts] = useState(true)
     const navigation = useNavigation()
-    alert(appState.donwloadUrl)
+    
     return (
         <View style={tw`flex-1 relative`}>
             {appState.useNative ? <VideoPlayer

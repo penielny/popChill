@@ -42,7 +42,22 @@ export const StateProvider = ({ children }) => {
         let _data = { ...appState.selectedMovie, url }
         /* 1. set donwloadUrl*/
         /* 2. Push data to saved_list*/
-        setAppState({ ...appState, donwloadUrl: url, saved_list: [...appState.saved_list, _data], modalState: !appState.modalState })
+        let issaved = false
+
+        for (let index = 0; index < appState.saved_list.length; index++) {
+            const element = appState.saved_list[index];
+            if (element.title == appState.selectedMovie.title) {
+                issaved = true;
+            }
+
+        }
+        if (issaved == true) {
+            setAppState({ ...appState, donwloadUrl: url, modalState: !appState.modalState })
+        } else {
+
+            setAppState({ ...appState, donwloadUrl: url, saved_list: [...appState.saved_list, _data], modalState: !appState.modalState })
+        }
+
 
     }
     useEffect(() => {
